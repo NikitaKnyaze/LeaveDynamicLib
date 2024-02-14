@@ -1,7 +1,2 @@
 ﻿  Leave.cpp
-C:\Users\nikit_000\Desktop\Нетология курсы\HomeWork\ООП\CMake\Домашнее задание- Создание библиотек\Задание 2\Project1\Project1\Leave.cpp(4,22): warning C4273: NewLeav::Leaver::leave: несовместимое связывание dll
-  C:\Users\nikit_000\Desktop\Нетология курсы\HomeWork\ООП\CMake\Домашнее задание- Создание библиотек\Задание 2\Project1\Project1\Leave.h(16,28):
-  см. предыдущее определение "leave"
-  
-     Создается библиотека C:\Users\nikit_000\Desktop\Нетология курсы\HomeWork\ООП\CMake\Домашнее задание- Создание библиотек\Задание 2\Project1\x64\Debug\Project1.lib и объект C:\Users\nikit_000\Desktop\Нетология курсы\HomeWork\ООП\CMake\Домашнее задание- Создание библиотек\Задание 2\Project1\x64\Debug\Project1.exp
   Project1.vcxproj -> C:\Users\nikit_000\Desktop\Нетология курсы\HomeWork\ООП\CMake\Домашнее задание- Создание библиотек\Задание 2\Project1\x64\Debug\Project1.dll
